@@ -8,12 +8,18 @@
 Both accomplish the same goal in this context)
 
 ## Commands related to the workflow:
-`git add .`
-`git commit -m "A message describing what you have done to make this snapshot different"`
+
+```bash
+git add .
+git commit -m "A message describing what you have done to make this snapshot different"
+```
 
 ## Commands related to checking status or log history
-`git status`
-`git log`
+
+```bash
+git status
+git log
+```
 
 The basic Git syntax is `program | action | destination`.
 
